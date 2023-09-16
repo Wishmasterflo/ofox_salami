@@ -8,8 +8,8 @@ export OF_MAINTAINER=Wishmasterflo
 export FOX_BUILD_DEVICE="OnePlus11"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
-export TARGET_DEVICE_ALT="salami, Salami, OnePlus11, OnePlus 11"
-export FOX_TARGET_DEVICES="salami, Salami, OnePlus11, OnePlus 11"
+export TARGET_DEVICE_ALT="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
+export FOX_TARGET_DEVICES="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
