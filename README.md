@@ -1,5 +1,10 @@
 ## OrangeFox Recovery Project Oneplus 11 Changelog
 
+# 09-Oct-2023 R11.1 V4
+ - Synced with latest Orangefox source changes
+ - Updated Magisk addon to Magisk 26.3
+ - Tried to fix Stock OOS flashing ???
+
 # 16-Sep-2023 R11.1 V3
  - Fixed FOX_TARGET_DEVICES
  - Adjusted screen settings
