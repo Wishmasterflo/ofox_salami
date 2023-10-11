@@ -1,6 +1,6 @@
 ## OrangeFox Recovery Project Oneplus 11 Changelog
 
-# 09-Oct-2023 R11.1 V4
+# 11-Oct-2023 R11.1 V4
  - Synced with latest Orangefox source changes
  - Updated Magisk addon to Magisk 26.3
 
