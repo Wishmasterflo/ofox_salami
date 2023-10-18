@@ -10,6 +10,8 @@ export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export TARGET_DEVICE_ALT="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
 export FOX_TARGET_DEVICES="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
+export BUILD_USERNAME="nobody"
+export BUILD_HOSTNAME="android-build"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
@@ -52,7 +54,7 @@ export FOX_BUGGED_AOSP_ARB_WORKAROUND="1601559499"
 export OF_QUICK_BACKUP_LIST="/boot;/data;/super;"
 
 # Magisk 26.3
-export FOX_USE_SPECIFIC_MAGISK_ZIP=device/oneplus/salami/Magisk/Magisk-v26.3.zip
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v26.3.zip
 
 # Add some extras
 export FOX_USE_ZIP_BINARY=1
