@@ -44,9 +44,6 @@ export OF_SUPPORT_ALL_BLOCK_OTA_UPDATES=0
 export OF_FIX_OTA_UPDATE_MANUAL_FLASH_ERROR=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 
-# For some reason this is dumb and necessary
-export FOX_BUGGED_AOSP_ARB_WORKAROUND="1601559499"
-
 # -- add settings for R11.1 --
 export OF_QUICK_BACKUP_LIST="/boot;/data;/super;"
 
@@ -59,8 +56,7 @@ export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v27.0.zip
 # Add some extras
 export FOX_USE_ZIP_BINARY=1
 export FOX_USE_TAR_BINARY=1
-export FOX_ASH_IS_BASH=1
-export FOX_REPLACE_BUSYBOX_PS=1
+export FOX_USE_BUSYBOX_BINARY=1
 export FOX_USE_BASH_SHELL=1
 export OF_USE_LZ4_COMPRESSION=1
 export FOX_USE_NANO_EDITOR=1
