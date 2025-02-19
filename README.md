@@ -4,6 +4,9 @@
 ## OrangeFox Recovery Project Oneplus 11
 ## Changelog
 
+# 19-Feb-2025 R11.1 V7
+ - Synced with latest Orangefox source changes
+   
 # 02-Feb-2024 R11.1 V6
  - Synced with latest Orangefox source changes
  - Now Orangefox will reflash itself if a ROM is flashed from within a already flashed Orangefox V6 Version on the phone.
