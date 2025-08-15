@@ -4,6 +4,10 @@
 ## OrangeFox Recovery Project Oneplus 11
 ## Changelog
 
+# 15-Aug-2025 R11.3 V8
+ - Synced with latest Orangefox source changes
+ - Updated to latest Orangefox Version R11.3
+
 # 19-Feb-2025 R11.1 V7
  - Synced with latest Orangefox source changes
    
